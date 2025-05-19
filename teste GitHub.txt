@@ -1,3 +1,9 @@
 #Teste de Clonagem GitHUb
 
-Atualização De Teste de Clonage
+Atualização De Teste de Clonagem
+
+Aluno Thiago Monechi
+
+Do senai estudando GitHUb
+
+E aprendendo a funcionalidade dele
